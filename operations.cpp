@@ -1,3 +1,10 @@
+/*
+Author: Frida Mesa
+Course: CSCI-135
+Instructor: 
+Assignment: Project 1 Task B
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
